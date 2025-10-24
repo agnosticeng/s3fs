@@ -1,0 +1,8 @@
+/target
+
+# Configuration files with sensitive data
+config.json
+.env
+
+# S3 data directory
+s3-data/
